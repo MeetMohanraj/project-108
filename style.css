@@ -1,0 +1,40 @@
+body{
+    background-color:rgba(206, 224, 187, 0.883) ;
+    font-family:'Special Elite' ;
+    text-align: center;
+   
+   }
+.copy_right_footer{
+    position: fixed;
+    
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    
+    line-height: 3;
+    text-align: center;
+    
+}
+.header_div{
+    background-color:gray ;
+    color: white;
+}
+
+.header_div p{
+    font-family:'Roboto'sans-serif;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.copy_right_footer{
+    position: fixed;
+    background-color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    color: black;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px lightblue;
+}
